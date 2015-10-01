@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Emmet",
+		"Jade",
+		"Package Control",
+		"SublimeCodeIntel",
+		"SublimeREPL",
+		"Theme - Cobalt2",
+		"Theme - Phoenix"
+	]
+}
